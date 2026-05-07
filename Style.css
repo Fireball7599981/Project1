@@ -19,6 +19,12 @@ header{
 #logo1{
     padding-right: 100px;
 }
+#logo2{
+    padding-right: 15px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+}
 
 nav{
     width: 100%;
@@ -43,5 +49,19 @@ nav a{
 
 #content{
     padding-left: 20px;
-    
 }
+#content1{
+    width: 100%;
+    padding: 5px;
+    padding-left: 20px;
+    background-color: #7E7B7B;
+    color:rgb(238, 238, 238)
+}
+footer{
+    Display:flex;
+    justify-content: center;
+
+}
+
+
+
