@@ -63,17 +63,24 @@ footer{
 
 }
 .content3{
+    width: 1000px;
     background-color: #7E7B7B;
-    width: 100%;
     display:flex;
     font-size: small;
     color: rgb(238, 238, 238);
+    justify-content: space-around;
 } 
 
-.image-group
-{
-    display: flex;
+#image-group{
+    
+    gap:5px;
+    display:flex;
     flex-direction: column;
+    padding:20px
+    
+}
+#content3-text{
+    width: 60%;
 }
 
 
